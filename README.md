@@ -16,7 +16,3 @@ ___
 ### 💡 Codewars profile
 
 [![codewars](https://www.codewars.com/users/SlavaDidenko/badges/large)](https://www.codewars.com/users/SlavaDidenko)
-
-### ⚡ Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaDidenko)
